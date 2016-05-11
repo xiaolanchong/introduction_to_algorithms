@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d7ec3b8-6f2f-4ae9-bf3b-e9d65f568475" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09_medians_and_order_statistics/order_statistics.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09_medians_and_order_statistics/order_statistics_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_elementary_data_structures/doubly_linked_list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_elementary_data_structures/doubly_linked_list_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_elementary_data_structures/singly_linked_list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_elementary_data_structures/singly_linked_list_test.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="introduction_to_algorithms_solutions.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,58 +27,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="binary_heap_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06_heapsort/binary_heap_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-              <folding>
-                <element signature="e#1#16#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="quicksort_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07_quicksort/quicksort_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
-              <folding>
-                <element signature="e#1#16#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="quicksort.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/07_quicksort/quicksort.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="457">
               <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="89" selection-end-column="31" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="radix_sort.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08_sorting_in_linear_time/radix_sort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="radix_sort_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08_sorting_in_linear_time/radix_sort_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -106,12 +61,59 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="order_statistics.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="order_statistics.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/09_medians_and_order_statistics/order_statistics.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="303">
               <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+              <folding>
+                <marker date="1462819278855" expanded="true" signature="61:115" placeholder="..." />
+                <marker date="1462819278855" expanded="true" signature="810:1169" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="singly_linked_list.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10_elementary_data_structures/singly_linked_list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="singly_linked_list_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10_elementary_data_structures/singly_linked_list_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="25" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="doubly_linked_list.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10_elementary_data_structures/doubly_linked_list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="doubly_linked_list_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10_elementary_data_structures/doubly_linked_list_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-83">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -119,8 +121,8 @@
       <file leaf-file-name="order_statistics_test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/09_medians_and_order_statistics/order_statistics_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="42" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -172,12 +174,17 @@
         <option value="$PROJECT_DIR$/08_sorting_in_linear_time/bucket_sort.py" />
         <option value="$PROJECT_DIR$/09_medians_and_order_statistics/order_statistics_test.py" />
         <option value="$PROJECT_DIR$/09_medians_and_order_statistics/order_statistics.py" />
+        <option value="$PROJECT_DIR$/10_elementary_data_structures/linked_list.py" />
+        <option value="$PROJECT_DIR$/10_elementary_data_structures/linked_list_test.py" />
+        <option value="$PROJECT_DIR$/10_elementary_data_structures/singly_linked_list_test.py" />
+        <option value="$PROJECT_DIR$/10_elementary_data_structures/doubly_linked_list_test.py" />
+        <option value="$PROJECT_DIR$/10_elementary_data_structures/doubly_linked_list.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="50" />
-    <option name="y" value="124" />
+    <option name="x" value="505" />
+    <option name="y" value="116" />
     <option name="width" value="1338" />
     <option name="height" value="883" />
   </component>
@@ -223,6 +230,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="introduction_to_algorithms_solutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="introduction_to_algorithms_solutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="introduction_to_algorithms_solutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="10_elementary_data_structures" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -296,20 +317,20 @@
       <recent name="C:\project\python\introduction_to_algorithms_solutions\01_merge_sort" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittest TestOrderStatistics.testSortedArray">
-    <configuration default="false" name="Unittest TestOrderStatistics.testEmptyArray" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests in TestDoublyLinkedList">
+    <configuration default="false" name="Unittest TestSinglyLinkedList.testReverse" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_medians_and_order_statistics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_elementary_data_structures" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="introduction_to_algorithms_solutions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_medians_and_order_statistics/order_statistics_test.py" />
-      <option name="CLASS_NAME" value="TestOrderStatistics" />
-      <option name="METHOD_NAME" value="testEmptyArray" />
+      <option name="SCRIPT_NAME" value="C:\project\python\introduction_to_algorithms_solutions\10_elementary_data_structures\singly_linked_list_test.py" />
+      <option name="CLASS_NAME" value="TestSinglyLinkedList" />
+      <option name="METHOD_NAME" value="testReverse" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -319,19 +340,41 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittest TestOrderStatistics.testSortedArray" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittests in TestSinglyLinkedList (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_medians_and_order_statistics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_elementary_data_structures" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="introduction_to_algorithms_solutions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_medians_and_order_statistics/order_statistics_test.py" />
-      <option name="CLASS_NAME" value="TestOrderStatistics" />
-      <option name="METHOD_NAME" value="testSortedArray" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_elementary_data_structures/singly_linked_list_test.py" />
+      <option name="CLASS_NAME" value="TestSinglyLinkedList" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest TestDoublyLinkedList.testInsertion" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_elementary_data_structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="introduction_to_algorithms_solutions" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_elementary_data_structures/doubly_linked_list_test.py" />
+      <option name="CLASS_NAME" value="TestDoublyLinkedList" />
+      <option name="METHOD_NAME" value="testInsertion" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -341,19 +384,19 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittest TestOrderStatistics.testReversedArray" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittest TestDoublyLinkedList.testDeletion" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_medians_and_order_statistics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_elementary_data_structures" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="introduction_to_algorithms_solutions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_medians_and_order_statistics/order_statistics_test.py" />
-      <option name="CLASS_NAME" value="TestOrderStatistics" />
-      <option name="METHOD_NAME" value="testReversedArray" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_elementary_data_structures/doubly_linked_list_test.py" />
+      <option name="CLASS_NAME" value="TestDoublyLinkedList" />
+      <option name="METHOD_NAME" value="testDeletion" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -363,40 +406,18 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittest TestOrderStatistics.testArrayWithDuplicates" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittests in TestDoublyLinkedList" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_medians_and_order_statistics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_elementary_data_structures" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="introduction_to_algorithms_solutions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_medians_and_order_statistics/order_statistics_test.py" />
-      <option name="CLASS_NAME" value="TestOrderStatistics" />
-      <option name="METHOD_NAME" value="testArrayWithDuplicates" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in TestOrderStatistics" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_medians_and_order_statistics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="introduction_to_algorithms_solutions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_medians_and_order_statistics/order_statistics_test.py" />
-      <option name="CLASS_NAME" value="TestOrderStatistics" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_elementary_data_structures/doubly_linked_list_test.py" />
+      <option name="CLASS_NAME" value="TestDoublyLinkedList" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_CLASS" />
@@ -560,19 +581,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestOrderStatistics.testEmptyArray" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestOrderStatistics.testSortedArray" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestOrderStatistics.testReversedArray" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestOrderStatistics.testArrayWithDuplicates" />
-      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests in TestOrderStatistics" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestSinglyLinkedList.testReverse" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in TestSinglyLinkedList (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestDoublyLinkedList.testInsertion" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestDoublyLinkedList.testDeletion" />
+      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests in TestDoublyLinkedList" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestOrderStatistics.testSortedArray" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in TestOrderStatistics" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestOrderStatistics.testArrayWithDuplicates" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestOrderStatistics.testReversedArray" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestOrderStatistics.testEmptyArray" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in TestDoublyLinkedList" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestDoublyLinkedList.testDeletion" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestDoublyLinkedList.testInsertion" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in TestSinglyLinkedList (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestSinglyLinkedList.testReverse" />
       </list>
     </recent_temporary>
   </component>
@@ -593,39 +614,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittest_TestOrderStatistics_testSortedArray - 2016.05.09 at 21h 36m 53s.xml">
-      <configuration name="Unittest TestOrderStatistics.testSortedArray" configurationId="tests" />
+    <history-entry file="Unittest_TestDoublyLinkedList_testDeletion - 2016.05.11 at 09h 54m 44s.xml">
+      <configuration name="Unittest TestDoublyLinkedList.testDeletion" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_TestOrderStatistics_testSortedArray - 2016.05.09 at 21h 37m 25s.xml">
-      <configuration name="Unittest TestOrderStatistics.testSortedArray" configurationId="tests" />
+    <history-entry file="Unittest_TestDoublyLinkedList_testDeletion - 2016.05.11 at 09h 55m 03s.xml">
+      <configuration name="Unittest TestDoublyLinkedList.testDeletion" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_TestOrderStatistics_testSortedArray - 2016.05.09 at 21h 40m 17s.xml">
-      <configuration name="Unittest TestOrderStatistics.testSortedArray" configurationId="tests" />
+    <history-entry file="Unittest_TestDoublyLinkedList_testDeletion - 2016.05.11 at 09h 55m 37s.xml">
+      <configuration name="Unittest TestDoublyLinkedList.testDeletion" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_TestOrderStatistics_testSortedArray - 2016.05.09 at 21h 40m 20s.xml">
-      <configuration name="Unittest TestOrderStatistics.testSortedArray" configurationId="tests" />
+    <history-entry file="Unittest_TestDoublyLinkedList_testDeletion - 2016.05.11 at 09h 55m 48s.xml">
+      <configuration name="Unittest TestDoublyLinkedList.testDeletion" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_TestOrderStatistics_testSortedArray - 2016.05.09 at 21h 41m 22s.xml">
-      <configuration name="Unittest TestOrderStatistics.testSortedArray" configurationId="tests" />
+    <history-entry file="Unittest_TestDoublyLinkedList_testDeletion - 2016.05.11 at 09h 58m 31s.xml">
+      <configuration name="Unittest TestDoublyLinkedList.testDeletion" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_TestOrderStatistics_testSortedArray - 2016.05.09 at 21h 41m 28s.xml">
-      <configuration name="Unittest TestOrderStatistics.testSortedArray" configurationId="tests" />
+    <history-entry file="Unittest_TestDoublyLinkedList_testDeletion - 2016.05.11 at 09h 59m 42s.xml">
+      <configuration name="Unittest TestDoublyLinkedList.testDeletion" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_TestOrderStatistics_testSortedArray - 2016.05.09 at 21h 41m 33s.xml">
-      <configuration name="Unittest TestOrderStatistics.testSortedArray" configurationId="tests" />
+    <history-entry file="Unittest_TestDoublyLinkedList_testDeletion - 2016.05.11 at 10h 00m 08s.xml">
+      <configuration name="Unittest TestDoublyLinkedList.testDeletion" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_TestOrderStatistics_testSortedArray - 2016.05.09 at 21h 41m 39s.xml">
-      <configuration name="Unittest TestOrderStatistics.testSortedArray" configurationId="tests" />
+    <history-entry file="Unittests_in_TestDoublyLinkedList - 2016.05.11 at 10h 03m 57s.xml">
+      <configuration name="Unittests in TestDoublyLinkedList" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_TestOrderStatistics - 2016.05.09 at 21h 36m 28s.xml">
-      <configuration name="Unittests in TestOrderStatistics" configurationId="tests" />
+    <history-entry file="Unittests_in_TestDoublyLinkedList - 2016.05.11 at 10h 04m 30s.xml">
+      <configuration name="Unittests in TestDoublyLinkedList" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_TestOrderStatistics - 2016.05.09 at 21h 36m 29s.xml">
-      <configuration name="Unittests in TestOrderStatistics" configurationId="tests" />
+    <history-entry file="Unittests_in_TestDoublyLinkedList - 2016.05.11 at 10h 07m 34s.xml">
+      <configuration name="Unittests in TestDoublyLinkedList" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="50" y="124" width="1338" height="883" extended-state="0" />
+    <frame x="505" y="116" width="1338" height="883" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26172465" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -633,11 +654,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3242894" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3242894" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39664084" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39664084" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -671,7 +692,7 @@
           <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="40" />
+      <option name="time" value="45" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -689,7 +710,7 @@
         <state relative-caret-position="697">
           <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
           <folding>
-            <element signature="e#1#16#0" expanded="true" />
+            <element signature="e#1#16#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -699,7 +720,7 @@
         <state relative-caret-position="748">
           <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
           <folding>
-            <element signature="e#1#16#0" expanded="true" />
+            <element signature="e#1#16#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -725,7 +746,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -757,7 +778,7 @@
         <state relative-caret-position="425">
           <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
           <folding>
-            <element signature="e#1#16#0" expanded="true" />
+            <element signature="e#1#16#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -848,7 +869,7 @@
         <state relative-caret-position="697">
           <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
           <folding>
-            <element signature="e#1#16#0" expanded="true" />
+            <element signature="e#1#16#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -858,7 +879,7 @@
         <state relative-caret-position="748">
           <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
           <folding>
-            <element signature="e#1#16#0" expanded="true" />
+            <element signature="e#1#16#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -868,7 +889,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -917,21 +938,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/09_medians_and_order_statistics/order_statistics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+          <folding>
+            <marker date="1462819278855" expanded="true" signature="61:115" placeholder="..." />
+            <marker date="1462819278855" expanded="true" signature="810:1169" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/09_medians_and_order_statistics/order_statistics_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="42" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09_medians_and_order_statistics/order_statistics.py">
+    <entry file="file://$PROJECT_DIR$/10_elementary_data_structures/singly_linked_list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        <state relative-caret-position="374">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_elementary_data_structures/singly_linked_list_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="25" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_elementary_data_structures/doubly_linked_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_elementary_data_structures/doubly_linked_list_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-83">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
