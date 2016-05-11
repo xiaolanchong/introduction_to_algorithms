@@ -58,3 +58,6 @@ class TestSinglyLinkedList(unittest.TestCase):
         actual = to_array(slist)
         expected = [14, 13, 12, 11]
         self.assertEqual(expected, actual)
+
+if __name__ == '__main__':
+    unittest.main()

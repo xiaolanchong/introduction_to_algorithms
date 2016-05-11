@@ -45,3 +45,6 @@ class TestDoublyLinkedList(unittest.TestCase):
 
         found = dlist.search(11)
         self.assertIsNone(found)
+
+if __name__ == '__main__':
+    unittest.main()
