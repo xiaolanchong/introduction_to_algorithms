@@ -3,16 +3,7 @@ import random
 from chained_hash import ChainedHash
 
 
-def to_array(slist):
-    def append(value):
-        arr.append(value)
-        return True
-    arr = []
-    slist.iterate(append)
-    return arr
-
-
-class TestSinglyLinkedList(unittest.TestCase):
+class TestChainedHash(unittest.TestCase):
     def testInsertion(self):
         htable = ChainedHash()
         htable.insert(11)
@@ -23,9 +14,9 @@ class TestSinglyLinkedList(unittest.TestCase):
         self.assertTrue(htable.search(11))
         self.assertTrue(htable.search(33))
         self.assertTrue(htable.search(102))
-        self.assertFalse(htable.has_collision)
+        self.assertFalse(htable.search(1012))
 
-        htable.delete(11)
+        self.assertTrue(htable.delete(11))
         self.assertFalse(htable.search(11))
 
     def testCollision(self):

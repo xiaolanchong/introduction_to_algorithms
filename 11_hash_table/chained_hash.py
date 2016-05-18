@@ -10,17 +10,20 @@ def knuth_hash(key, bits):
     the product of a and key, where a = 2^32 * (sqrt(5)-1)/2.
     The solution is proposed by D. Knuth"""
     a = 2654435769
-    h = ((a * key) >> (32 - bits)) & ((1 << bits) - 1)
+    h = ((a * key) >> (32 - bits)) & (2 ** bits - 1)
     return h
 
 
 def generate_hash_from_universal_set(_):
-    """"Randomly generates a hash function from the universal hash set"""
+    """"Randomly generates a hash function from the universal hash set ((a*x+b) mod p) mod m,
+       where p - a predefined primary number, a in [1..p-1], b in [1..p], random numbers,
+             m - number of the buckets (power of 2 usually)
+    """
     p_arr = [1151, 7879, 23197, 85931]
     p = p_arr[-1]
     a = random.randint(0, p-1)
     b = random.randint(1, p-1)
-    return lambda x, bits: ((a * x + b) % p) % (2 ** bits - 1)
+    return lambda x, bits: ((a * x + b) % p) & (2 ** bits - 1)
 
 
 class ChainedHash:
